@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Karim Hamid
 
-**Software Engineer**  
+**Software Developer → DevOps Engineer** 
 Passionate about **Programming**, **Automation**, **Clean Code**, and **Scalable Applications**
 
 ---
