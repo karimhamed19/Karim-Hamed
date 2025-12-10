@@ -1,54 +1,55 @@
 # 👋 Hey! I'm Karim Hamid
 
-**Software Developer → DevOps Engineer**  
-Passionate about **Cloud**, **Automation**, **CI/CD**, and **Scalable Systems**
+**Software Engineer**  
+Passionate about **Programming**, **Automation**, **Clean Code**, and **Scalable Applications**
 
 ---
 
 ## 🚀 About Me
-- 💻 Background in Software Development (Python, JavaScript, Web Apps)
-- 🔄 Transitioning into DevOps Engineering
-- 🐳 Working with Docker & containerized apps
-- ⚙️ Building CI/CD pipelines using GitHub Actions & Jenkins
-- ☁️ Exploring Cloud Platforms (Azure, AWS)
-- 📜 Learning Infrastructure as Code (Terraform, Bicep)
+- 💻 Background in Software Development (Desktop & Web Apps)
+- 🔄 Transitioning into modern software engineering practices (CI/CD, Testing, Automation)
+- 🐍 Strong experience with **Python** for scripting & backend
+- 🌐 Building web apps with **JavaScript** & **Node.js**
+- 🎨 Frontend development using **HTML, CSS, React**
+- ⚙️ Experienced with Git & version control
+- 🧪 Writing unit tests & integration tests
 
-> بالعربي: مطوّر برمجيات بيحوّل لـ DevOps، بخبرة في الكود، الأتمتة، والنشر السلس على الكلاود.
+> بالعربي: مطوّر برمجيات بخبرة في بايثون وجافاسكريبت، بشتغل على تطبيقات ويب وسكربتات أتمتة، واهتمامي الأساسي هو الكود النظيف والتطبيقات القابلة للتوسع.
 
 ---
 
 ## 🔧 Skills & Tools
-- **Languages:** Python, Bash, JavaScript
-- **DevOps Tools:** Git, GitHub Actions, Jenkins, Docker, Kubernetes (Basics)
-- **Cloud:** Azure (VM, App Service), AWS (EC2, S3)
-- **IaC:** Terraform (Basics)
-- **Monitoring:** Prometheus, Grafana (Learning)
+- **Languages:** Python, JavaScript, C#, Java, HTML, CSS
+- **Frameworks:** React, Node.js, Django, .NET
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Tools:** Git, GitHub Actions, Docker (basics), VS Code, Visual Studio
+- **Testing:** PyTest, JUnit, Jest
 
 ---
 
 ## 🔥 Featured Projects
-1. **CI/CD Pipeline for Flask App**
-   - Automated testing & deployment to Azure App Service.
+1. **Flask Web App**
+   - Built a RESTful API with Python Flask.
+   - [Repo](#) • [Demo](#)
+
+2. **React Portfolio Website**
+   - Responsive frontend portfolio built with React.
    - [Repo](#) • [Live Demo](#)
 
-2. **Dockerized Web App**
-   - Containerized a full-stack app; deployed on local & cloud.
-   - [Repo](#)
-
-3. **Terraform Infrastructure**
-   - Provisioned Azure VM & Storage using Terraform.
+3. **Automation Scripts**
+   - Python scripts for file management & data processing.
    - [Repo](#)
 
 ---
 
 ## 📜 Certifications
-- **AZ-900: Microsoft Azure Fundamentals**
-- **Docker Essentials (Coursera/Udemy)**
-- **Git & GitHub Mastery**
+- **CS Fundamentals (Algorithms & Data Structures)**
+- **Python Advanced Programming**
+- **JavaScript ES6+**
 
 ---
 
 ## 📫 Contact
-- **Email:** kr7699460@gmail.com
-- **GitHub:** [@kr-im](https://github.com/kr-im)
+- **Email:** karimhamid19112001@gmail.com
+- **GitHub:** [@karimhamed19](https://github.com/karimhamed19)
 - **LinkedIn:** [Your Profile](#)
