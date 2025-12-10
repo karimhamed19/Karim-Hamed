@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Karim Ramadan
+# 👋 Hey! I'm Karim Hamid
 
 **Software Developer → DevOps Engineer**  
 Passionate about **Cloud**, **Automation**, **CI/CD**, and **Scalable Systems**
